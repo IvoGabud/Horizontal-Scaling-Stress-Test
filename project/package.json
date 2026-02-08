@@ -1,0 +1,12 @@
+{
+  "name": "load-balancing-demo",
+  "version": "1.0.0",
+  "description": "Load balancing demonstration with NGINX and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["load-balancing", "nginx", "nodejs", "demo"],
+  "author": "",
+  "license": "MIT"
+}
